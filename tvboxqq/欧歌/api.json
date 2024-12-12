@@ -4,7 +4,7 @@
     "wallpaper": "https://o.nxog.top/m//t/",
     "logo": "https://o.nxog.top/m//LOGO2.gif",
     "spider": "./spider.jar",
-    "warningText": "o提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖\n📢智能AI已过滤广告",
+    "warningText": "o提示:\n📢接口软件 \n📢长期维护\n📢智能AI已过滤广告",
     "lives": [
         {
             "name": "o",
@@ -16,14 +16,14 @@
     "sites": [
         {
             "key": "豆瓣2",
-            "name": "📢o榜单u.nxog.top",
+            "name": "📢嘻哈o榜单u.nxog.top",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
         {
             "key": "豆瓣1",
-            "name": "📢o公告❤更新:11/30❤",
+            "name": "📢嘻哈o公告❤更新:11/30❤",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 0,
@@ -33,7 +33,7 @@
         },
         {
             "key": "csp_woog",
-            "name": "🐲欧歌┃4K",
+            "name": "🐲嘻哈欧歌┃4K",
             "type": 3,
             "api": "csp_woog",
             "changeable": 0,
@@ -50,7 +50,7 @@
         },
         {
             "key": "欧歌js",
-            "name": "🐲欧歌┃夸速4k",
+            "name": "🐲嘻哈欧歌┃夸速4k",
             "type": 3,
             "api": "./api/4k.min.js",
             "ext": "./js/og4K.js",
@@ -60,7 +60,7 @@
         },
         {
             "key": "csp_欧歌G",
-            "name": "🐲欧歌4K┃配置",
+            "name": "🐲嘻哈欧歌4K┃配置",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
@@ -70,7 +70,7 @@
         },
         {
             "key": "配置中心",
-            "name": "❤通用┃配置",
+            "name": "❤嘻哈通用┃配置",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
@@ -82,7 +82,7 @@
         },
         {
             "key": "荐片",
-            "name": "💡荐片｜影视",
+            "name": "💡嘻哈荐片｜影视",
             "type": 3,
             "api": "csp_Jianpian",
             "playerType": 1,
@@ -92,7 +92,7 @@
         },
         {
             "key": "天天",
-            "name": "💡天天┃影视",
+            "name": "💡嘻哈天天┃影视",
             "type": 3,
             "api": "csp_AppTT",
             "searchable": 1,
@@ -101,7 +101,7 @@
         },
         {
             "key": "快看影视",
-            "name": "💡快看｜影视",
+            "name": "💡嘻哈快看｜影视",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -110,7 +110,7 @@
         },
         {
             "key": "热播影视",
-            "name": "💡热播｜影视",
+            "name": "💡嘻哈热播｜影视",
             "type": 3,
             "api": "csp_AppRB",
             "searchable": 1,
@@ -119,7 +119,7 @@
         },
         {
             "key": "低端影视",
-            "name": "💡低端｜影视",
+            "name": "💡嘻哈低端｜影视",
             "type": 3,
             "api": "csp_Ddys",
             "searchable": 1,
@@ -128,7 +128,7 @@
         },
         {
             "key": "瓜子影视1",
-            "name": "💡瓜子｜影视",
+            "name": "💡嘻哈瓜子｜影视",
             "type": 3,
             "api": "csp_Gz360",
             "searchable": 1,
@@ -137,7 +137,7 @@
         },
         {
             "key": "骚火影视1",
-            "name": "💡骚火｜影视",
+            "name": "💡嘻哈骚火｜影视",
             "type": 3,
             "api": "csp_SaoHuo",
             "searchable": 1,
@@ -146,7 +146,7 @@
         },
         {
             "key": "农民影视",
-            "name": "💡农民｜影视",
+            "name": "💡嘻哈农民｜影视",
             "type": 3,
             "api": "csp_Nmys",
             "searchable": 1,
@@ -155,7 +155,7 @@
         },
         {
             "key": "饺子影视",
-            "name": "💡饺子｜影视",
+            "name": "💡嘻哈饺子｜影视",
             "type": 3,
             "api": "csp_Jiaozi",
             "searchable": 1,
@@ -164,7 +164,7 @@
         },
         {
             "key": "洽洽影视",
-            "name": "💡洽洽｜影视",
+            "name": "💡嘻哈洽洽｜影视",
             "type": 3,
             "api": "csp_AppGZ",
             "searchable": 1,
@@ -173,7 +173,7 @@
         },
         {
             "key": "金牌影视",
-            "name": "💡金牌｜影视",
+            "name": "💡嘻哈金牌｜影视",
             "type": 3,
             "api": "csp_WebJP",
             "searchable": 1,
@@ -182,7 +182,7 @@
         },
         {
             "key": "铁剧影视",
-            "name": "💡铁剧｜影视",
+            "name": "💡嘻哈铁剧｜影视",
             "type": 3,
             "api": "csp_WebBr",
             "searchable": 1,
@@ -191,7 +191,7 @@
         },
         {
             "key": "真心影视",
-            "name": "💡真心｜影视",
+            "name": "💡嘻哈真心｜影视",
             "type": 3,
             "api": "csp_WebGZ",
             "searchable": 1,
@@ -200,7 +200,7 @@
         },
         {
             "key": "耐看影视",
-            "name": "💡耐看｜影视",
+            "name": "💡嘻哈耐看｜影视",
             "type": 3,
             "api": "csp_WebNK",
             "searchable": 1,
@@ -209,7 +209,7 @@
         },
         {
             "key": "机器人",
-            "name": "💡机器｜影视",
+            "name": "💡嘻哈机器｜影视",
             "type": 3,
             "api": "csp_Ikanbot",
             "searchable": 1,
@@ -218,7 +218,7 @@
         },
         {
             "key": "1905",
-            "name": "💡1905｜影视",
+            "name": "💡嘻哈1905｜影视",
             "type": 3,
             "api": "csp_Web1905",
             "searchable": 1,
@@ -227,7 +227,7 @@
         },
         {
             "key": "忍者影视",
-            "name": "💡忍者｜影视",
+            "name": "💡嘻哈忍者｜影视",
             "type": 3,
             "api": "csp_AppRZ",
             "searchable": 1,
@@ -236,7 +236,7 @@
         },
         {
             "key": "csp_XYQHiker_农民影视",
-            "name": "🧿农民｜影视",
+            "name": "🧿嘻哈农民｜影视",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -246,13 +246,13 @@
         },
         {
             "key": "嫖嫖嫖",
-            "name": "🧿嫖嫖┃影视",
+            "name": "🧿嘻哈嫖嫖┃影视",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
                 "主页url": "https://www.gs4x7nq4.com/",
                 "播放请求头": "User-Agent$Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/128.0.0.0Safari/537.36",
-                "简介": "⚠️欧歌特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+</label>&&</div>",
+                "简介": "⚠️嘻哈特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+</label>&&</div>",
                 "嗅探词": ".mp4#.m3u8#.flv#.m3u8?#.mp4?",
                 "影片类型": "tags\">&&director\">",
                 "影片状态": "bottom\">&&</div>",
@@ -276,7 +276,7 @@
         },
         {
             "key": "兄弟",
-            "name": "🧿️兄弟┃影视",
+            "name": "🧿️嘻哈兄弟┃影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -296,19 +296,19 @@
         },
         {
             "key": "白嫖者",
-            "name": "🧿白嫖┃影视",
+            "name": "🧿嘻哈白嫖┃影视",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
                 "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
                 "副标题": "class=\"pic-texttext-right\"&&</span>",
-                "简介": "️欧歌特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗+剧情介绍：&&</p>"
+                "简介": "️嘻哈特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗+剧情介绍：&&</p>"
             }
         },
         {
             "key": "656",
-            "name": "🧿梦想┃影视",
+            "name": "🧿嘻哈梦想┃影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -348,7 +348,7 @@
         },
         {
             "key": "8号影院",
-            "name": "🧿8号┃影视",
+            "name": "🧿嘻哈8号┃影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -366,7 +366,7 @@
         },
         {
             "key": "csp_红狐狸影视",
-            "name": "🧿狐狸┃影视",
+            "name": "🧿嘻哈狐狸┃影视",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
@@ -376,7 +376,7 @@
         },
         {
             "key": "糯米弹幕",
-            "name": "💘糯米｜弹幕",
+            "name": "💘嘻哈糯米｜弹幕",
             "type": 3,
             "api": "csp_Nmys",
             "searchable": 1,
@@ -388,7 +388,7 @@
         },
         {
             "key": "三六零弹幕",
-            "name": "💘三六┃弹幕",
+            "name": "💘嘻哈三六┃弹幕",
             "type": 3,
             "api": "csp_Sp360",
             "searchable": 1,
@@ -400,7 +400,7 @@
         },
         {
             "key": "天天弹幕",
-            "name": "💘天天┃弹幕",
+            "name": "💘嘻哈天天┃弹幕",
             "type": 3,
             "api": "csp_TianTian",
             "searchable": 1,
@@ -412,7 +412,7 @@
         },
         {
             "key": "荐片弹幕",
-            "name": "💘荐片┃弹幕",
+            "name": "💘嘻哈荐片┃弹幕",
             "type": 3,
             "api": "csp_Jianpian",
             "playerType": 1,
@@ -425,7 +425,7 @@
         },
         {
             "key": "文才弹幕",
-            "name": "💘文才┃弹幕",
+            "name": "💘嘻哈文才┃弹幕",
             "type": 3,
             "api": "csp_Jpys",
             "searchable": 1,
@@ -437,7 +437,7 @@
         },
         {
             "key": "哔哩弹幕",
-            "name": "🅱哔哩｜弹幕",
+            "name": "🅱嘻哈哔哩｜弹幕",
             "type": 3,
             "api": "csp_Bilimd",
             "searchable": 1,
@@ -454,7 +454,7 @@
         },
         {
             "key": "立播弹幕",
-            "name": "❤立播┃弹幕",
+            "name": "❤嘻哈立播┃弹幕",
             "type": 3,
             "api": "csp_Libvio",
             "searchable": 1,
@@ -469,7 +469,7 @@
         },
         {
             "key": "玩弹幕1",
-            "name": "❤玩哥┃弹幕",
+            "name": "❤嘻哈玩哥┃弹幕",
             "type": 3,
             "api": "csp_Wobg",
             "searchable": 1,
@@ -486,7 +486,7 @@
         },
         {
             "key": "夸克玩弹幕1",
-            "name": "❤玩偶┃弹幕",
+            "name": "❤嘻哈玩偶┃弹幕",
             "type": 3,
             "api": "csp_Wobg",
             "searchable": 1,
@@ -503,7 +503,7 @@
         },
         {
             "key": "夸克玩弹幕2",
-            "name": "❤玩姐┃弹幕",
+            "name": "❤嘻哈玩姐┃弹幕",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
@@ -519,7 +519,7 @@
         },
         {
             "key": "夸克玩弹幕3",
-            "name": "❤玩妹┃弹幕",
+            "name": "❤嘻哈玩妹┃弹幕",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
@@ -535,7 +535,7 @@
         },
         {
             "key": "夸克玩弹幕4",
-            "name": "❤玩弟┃弹幕",
+            "name": "❤嘻哈玩弟┃弹幕",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
@@ -551,7 +551,7 @@
         },
         {
             "key": "搜索弹幕",
-            "name": "❤搜索┃弹幕",
+            "name": "❤嘻哈搜索┃弹幕",
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
@@ -564,7 +564,7 @@
         },
         {
             "key": "米搜弹幕",
-            "name": "❤米搜｜弹幕",
+            "name": "❤嘻哈米搜｜弹幕",
             "type": 3,
             "api": "csp_Qkpanso",
             "searchable": 1,
@@ -578,7 +578,7 @@
         },
         {
             "key": "易搜弹幕",
-            "name": "❤易搜｜弹幕",
+            "name": "❤嘻哈易搜｜弹幕",
             "type": 3,
             "api": "csp_YiSo",
             "searchable": 1,
@@ -592,7 +592,7 @@
         },
         {
             "key": "小纸条弹幕",
-            "name": "❤纸条｜弹幕",
+            "name": "❤嘻哈纸条｜弹幕",
             "type": 3,
             "api": "csp_XiaoZhiTiao",
             "searchable": 1,
@@ -605,7 +605,7 @@
         },
         {
             "key": "我的阿里",
-            "name": "❤我的┃阿里",
+            "name": "❤嘻哈我的┃阿里",
             "type": 3,
             "api": "csp_MyAli",
             "searchable": 0,
@@ -620,7 +620,7 @@
         },
         {
             "key": "阿里合集",
-            "name": "❤阿里┃合集",
+            "name": "❤嘻哈阿里┃合集",
             "type": 3,
             "api": "csp_AliShare",
             "searchable": 1,
@@ -636,7 +636,7 @@
         },
         {
             "key": "我的夸克",
-            "name": "❤我的｜夸克",
+            "name": "❤嘻哈我的｜夸克",
             "type": 3,
             "api": "csp_MyQuark",
             "searchable": 0,
@@ -652,7 +652,7 @@
         },
         {
             "key": "我的UC",
-            "name": "❤我的｜UC",
+            "name": "❤嘻哈我的｜UC",
             "type": 3,
             "api": "csp_MyUc",
             "searchable": 0,
